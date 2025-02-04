@@ -1,6 +1,6 @@
 {
   "name": "butterscript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ButterScript is a language built on top of Node.js",
   "main": "butterscript.js",
   "type": "commonjs",
