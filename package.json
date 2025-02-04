@@ -4,7 +4,8 @@
   "description": "ButterScript is a language built on top of Node.js",
   "main": "butterscript.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runfromrepo": "node butterscript.js"
   },
   "repository": {
     "type": "git",
