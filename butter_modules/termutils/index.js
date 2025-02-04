@@ -4,6 +4,9 @@ module.exports = {
         process.stdout.write(msg);
     }
 };
-function error(_err) {
-    process.stderr.write(_err)
-}
+// temp commenting this due to it breaking termutils
+/* module.exports = {
+    write_aserror: function (err) {
+     process.stderr.write(err)
+   }
+}; */
