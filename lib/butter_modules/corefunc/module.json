@@ -1,0 +1,7 @@
+{
+    "name": "corefunc",
+    "desc": "Core functions and classes for ButterScript",
+    "lang": "js",
+    "version": "0.1.1",
+    "format_version": 1
+}
