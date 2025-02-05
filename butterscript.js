@@ -1,1 +1,1 @@
-/home/chronos/user/butter/butterscript/lib/butterscript.js
+./lib/butterscript.js
