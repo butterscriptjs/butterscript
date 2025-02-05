@@ -1,4 +1,6 @@
-{
-    "bake.default_action": "build",
-    "build": "echo 'Baking is not available for ButterScript. Try again later'"
+bake: {
+    BUILD: build
+}
+bulild: {
+    
 }
