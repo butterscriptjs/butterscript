@@ -1,0 +1,8 @@
+{
+    "name": "repl",
+    "desc": "REPL Interpreter for ButterScript",
+    "lang": "js",
+    "main": "index.js",
+    "version": "1.0",
+    "format_version": 2
+}
