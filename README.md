@@ -1,4 +1,5 @@
 # ButterScript
+> Archiving, as repository is moved to [GitLab](https://gitlab.com/butterscriptlang/butterscript)
 ButterScript is a language built on Node.js.
 
 ## Installation Instructions
